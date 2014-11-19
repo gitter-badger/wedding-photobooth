@@ -5,8 +5,10 @@
   "scripts": {
   },
   "dependencies": {
+    "async": "^0.2.10"
   },
   "devDependencies": {
+    "gulp": "*"
   },
   "homepage": "http://hakashun.github.io/wedding-photobooth/",
   "repository": {
