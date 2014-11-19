@@ -8,7 +8,9 @@
     "async": "^0.2.10"
   },
   "devDependencies": {
-    "gulp": "*"
+    "gulp": "*",
+    "run-sequence": "*",
+    "main-bower-files": "*"
   },
   "homepage": "http://hakashun.github.io/wedding-photobooth/",
   "repository": {
