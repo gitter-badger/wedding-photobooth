@@ -1,0 +1,16 @@
+{
+  "name": "wedding-photobooth",
+  "version": "0.1.0",
+  "description": "A site for wedding-photobooth project",
+  "scripts": {
+  },
+  "dependencies": {
+  },
+  "devDependencies": {
+  },
+  "homepage": "http://hakashun.github.io/wedding-photobooth/",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/HAKASHUN/wedding-photobooth"
+  }
+}
