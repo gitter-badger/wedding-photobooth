@@ -5,12 +5,19 @@
   "scripts": {
   },
   "dependencies": {
-    "async": "^0.2.10"
+    "async": "^0.2.10",
+    "lodash": "*",
+    "stylus": "*"
   },
   "devDependencies": {
     "gulp": "*",
+    "gulp-concat": "*",
     "gulp-connect": "*",
+    "gulp-fixmyjs": "*",
+    "gulp-open": "*",
     "gulp-gh-pages": "*",
+    "gulp-uglify": "*",
+    "gulp-util": "*",
     "run-sequence": "*",
     "main-bower-files": "*"
   },
