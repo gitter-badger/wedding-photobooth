@@ -15,6 +15,7 @@
     "gulp-connect": "*",
     "gulp-fixmyjs": "*",
     "gulp-open": "*",
+    "gulp-rimraf": "*",
     "gulp-gh-pages": "*",
     "gulp-uglify": "*",
     "gulp-util": "*",

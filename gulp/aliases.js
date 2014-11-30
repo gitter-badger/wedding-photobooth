@@ -26,9 +26,23 @@ gulp.task('deploy', ['build'], function() {
  */
 gulp.task('build', function(done) {
   runSequence(
-    'contrib: clean',
+    'clean',
     'install',
     'contrib:build',
+    done
+  );
+});
+
+/**
+ * Local bulid this site
+ */
+gulp.task('local', function(done) {
+  runSequence(
+    'clean',
+    'install',
+    'connect:local',
+    'watch',
+    'open:local',
     done
   );
 });
