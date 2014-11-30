@@ -4,7 +4,7 @@ npm-debug.log
 
 # bower
 bower_components
-src/lib/
+public/lib/
 
 # editor
 .idea
